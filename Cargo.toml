@@ -1,0 +1,8 @@
+[package]
+name = "lexer"
+version = "0.1.0"
+authors = ["shadow3002 <702189255@qq.com>"]
+edition = "2018"
+
+[dependencies]
+unit = { path = "./src/unit" }
